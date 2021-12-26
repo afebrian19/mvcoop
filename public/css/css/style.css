@@ -1,0 +1,22 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+}
+.foto img{
+	width:200px;
+	height: 200px;
+	padding: 20px 10px 10px;
+	border: 1px solid #eaeaea;
+	box-shadow: 0 4px 8px 0  rgba(0,0,0,0.2);
+	margin-top: 10px;
+}
+
+h1{
+	text-align: center;
+}
+
+.fotok img{
+	width: 50px;
+	height:50px;
+	border: 2px solid #0000002e;
+	border-radius:20px;
+}
